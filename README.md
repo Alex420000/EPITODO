@@ -20,15 +20,14 @@ We got the best grade either A 👀
 
 ## Marks 👍
 | Rank | Marks |
+|-----------|-----------|
 | Preliminaries | 2 / 2 |
 | Architecture Web Server	| 3 / 5 |
 | Routes (does it exists) |	3 / 3 |
 | Routes (Is it well done) | 3 / 3 |
 | Password | 1 / 1 |
 | Token	| 3 / 3 |
-|-----------|-----------|
 | SQL DB | 3 / 5 |
-|-----------|-----------|
 | Total Average | 18 / 22 |
 
 ## Bonus ✨
