@@ -1,8 +1,11 @@
 # EpyTodo
 
 This project is one of the coolest projects. Create your own Todo List. 😎
+
 The goal of the project is to create your MySQL database and a web server using Node.js. 😃
+
 Your goal is to create the (backend) side of the project and all the tasks you need. 😁
+
 But also you can build a proper (frontend) to your project as a bonus. 👌
 
 We got the best grade either A 👀
@@ -17,19 +20,12 @@ We got the best grade either A 👀
 
 ## Marks 👍
 | Rank | Marks |
-|-----------|-----------|
 | Preliminaries | 2 / 2 |
-|-----------|-----------|
 | Architecture Web Server	| 3 / 5 |
-|-----------|-----------|
 | Routes (does it exists) |	3 / 3 |
-|-----------|-----------|
 | Routes (Is it well done) | 3 / 3 |
-|-----------|-----------|
 | Password | 1 / 1 |
-|-----------|-----------|
 | Token	| 3 / 3 |
-|-----------|-----------|
 | SQL DB | 3 / 5 |
 |-----------|-----------|
 | Total Average | 18 / 22 |
