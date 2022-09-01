@@ -26,6 +26,7 @@ We got the best grade either A 👀
 | Routes (Is it well done) | 3 / 3 |
 | Password | 1 / 1 |
 | Token	| 3 / 3 |
+|-----------|-----------|
 | SQL DB | 3 / 5 |
 |-----------|-----------|
 | Total Average | 18 / 22 |
