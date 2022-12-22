@@ -22,18 +22,14 @@ We got the best grade either A 👀
 | Rank | Marks |
 |-----------|-----------|
 | Preliminaries | 2 / 2 |
-| Architecture Web Server	| 3 / 5 |
+| Architecture Web Server	| 5 / 5 |
 | Routes (does it exists) |	3 / 3 |
 | Routes (Is it well done) | 3 / 3 |
 | Password | 1 / 1 |
 | Token	| 3 / 3 |
-| SQL DB | 3 / 5 |
-| Total Average | 18 / 22 |
+| SQL DB | 5 / 5 |
+| Total Average | 22 / 22 |
 
 ## Bonus ✨
 As a bonus, I have created a postman collection that allows you to test all the requests of the project,
 feel free to use it if you need it.
-
-## Teams 🙌
-* Alexis Barthelemy
-* Matthis Brocheton
